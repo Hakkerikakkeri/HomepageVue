@@ -1,4 +1,4 @@
-# my_project
+# My 2nd Vue project
 
 ## Project setup
 ```
