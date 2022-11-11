@@ -1,0 +1,25 @@
+#nav{
+    font-family: 'DM Sans', sans-serif;
+    color: white;
+    float: right;
+    margin-top: 15px;
+    margin-right: 15px;
+  }
+  
+  .nav-link{
+    display: inline;
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+  }
+  
+  #nav a.router-link-exact-active {
+    color: var(--accent);
+  }
+  
+  @media (max-width: 600px)
+  {
+    .nav-link{
+      display: block;
+    }
+  }
