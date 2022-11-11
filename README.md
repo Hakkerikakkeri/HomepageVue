@@ -1,6 +1,6 @@
 # My 2nd Vue project
 
-#Todo
+# Todo
 > Topbutton better
 
 ## Project setup
